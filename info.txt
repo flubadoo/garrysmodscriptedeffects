@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"			"Flechette Sniper Rifle"
+	"version"		"1.0"
+	"up_date"		"0/00/0000"
+	"author_name"		"Flubadoo"
+	"author_email"		"poope"
+	"author_url"		""
+	"info"			"Sniper Rifle"
+}

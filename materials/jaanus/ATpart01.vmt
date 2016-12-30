@@ -1,0 +1,6 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "jaanus/ATpart01"
+	"$selfillum" "1"
+	"$model"	"1"
+}
